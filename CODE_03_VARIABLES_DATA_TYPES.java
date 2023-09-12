@@ -1,5 +1,4 @@
 //THIS IS ABOUT DATA TYPES AND VARIABLES GOING TO STUDY
-// package CWH_HAARY;
 
 public class CODE_03_VARIABLES_DATA_TYPES {
     public static void main(String[] args) {

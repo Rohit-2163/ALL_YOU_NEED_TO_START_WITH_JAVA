@@ -1,5 +1,5 @@
 //TAKING USER INPUT METHOD
-// package CWH_HAARY;
+
 
 import java.util.Scanner;
 public class CODE_05_USER_INPUT {
